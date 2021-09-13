@@ -6,7 +6,7 @@
 
 				<h1>Présentation</h1> <br />
 				
-				Bienvenue sur TrocNc <br />
+				Bienvenue sur trocNC <br />
 				Le principe de notre site est très simple: <br />
 				C'est une plate-forme en ligne permettant de faire du troc, d’échanger des objets et/ou des services.<br />			
 

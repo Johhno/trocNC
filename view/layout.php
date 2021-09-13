@@ -72,9 +72,9 @@
 
 			<div id="pied">
 				<div id="icone">
-				Coordonnées : 20 rue la_bas Robinson<br />
+				Coordonnées : 10 rue la_bas quelquepart dans le monde<br />
 				tel : 79.74.58 <br />
-				mail : trocNc@hotmail.fr <br />
+				mail : trocnc@hotmail.fr <br />
 				</div>	
 			</div>	 <!-- fin pied -->
 
